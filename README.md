@@ -1,1 +1,1 @@
-![Alt text](demo.gif) / ![](demo.gif)
+![Farmers Market Finder Demo] (gif/demo.gif)
