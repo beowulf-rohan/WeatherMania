@@ -1,1 +1,1 @@
-![Farmers Market Finder Demo] (gif/demo.gif)
+![Alt text](gif/demo.gif)
